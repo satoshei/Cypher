@@ -1,1 +1,2 @@
-# Cypher
+# Cypher - A cryptocurrency utility token to protect, manage and secure your account, based on the Ethereum blockchain. 
+#For instance this is a project created for more knowledge in the feild of crypto and how it can be developed and decentralized in a safe way. As our founding father (Bitcoin) which works as a value token, the creator of blockchian, the reason why i believe that crypto as a whole concept and development asset can become a future reasoning for changing the way we use information correctly and most importantly securly. The breach that cannot be destroyed. Cypher in this case is created and developed as a utility token and not as a value cryptocurrency. 
